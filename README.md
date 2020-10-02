@@ -7,7 +7,7 @@
 
 
 - 🔭 I’m currently exploring ML, Web Development and AR/VR. 
-- 🌱 I’m currently learning Machine Learning, MERN Stack, AR/VR and a lot more.
+- 🌱 I’m currently learning Machine Learning, MERN Stack and AR/VR Models.
 - 👯 I’m looking to collaborate on Open-Source Projects.
 - 🤔 I’m looking for help with Machine Learning Projects.
 - 💬 Ask me about Frontend Web Development(React.js), AR/VR(Basic Models), Space, Sports etc.
