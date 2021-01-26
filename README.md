@@ -6,11 +6,8 @@
 
 
 
-- 🔭 I’m currently exploring ML, Web Development and AR/VR. 
-- 🌱 I’m currently learning Machine Learning, MERN Stack and AR/VR Models.
+- 🌱 I’m currently learning MERN Stack.
 - 👯 I’m looking to collaborate on Open-Source Projects.
-- 🤔 I’m looking for help with Machine Learning Projects.
-- 💬 Ask me about Frontend Web Development(React.js), AR/VR(Basic Models), Space, Sports etc.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ag23/">LinkedIn</a> or <a href="mailto:anuraggupta5086@gmail.com">Mail Me</a>
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love playing video games, and developing as well. :p
