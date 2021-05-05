@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-AnuragGupta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ag23/)](https://www.linkedin.com/in/ag23/)
 [![Twitter Badge](http://img.shields.io/badge/-@anurag_gupta23-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/anurag_gupta23)](https://twitter.com/anurag_gupta23)
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:anuraggupta5086@gmail.com)](mailto:anuragguota5086@gmail.com)
-
+![](https://komarev.com/ghpvc/?username=Anurag5086)
 
 
 - 🌱 I’m currently learning MERN Stack.
