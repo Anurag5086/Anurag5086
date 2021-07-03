@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=Anurag5086)
 
 
-- 🌱 I’m currently learning MERN Stack.
+- 🌱 I’m currently learning Full Stack Web Developement.
 - 👯 I’m looking to collaborate on Open-Source Projects.
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ag23/">LinkedIn</a> or <a href="mailto:anuraggupta5086@gmail.com">Mail Me</a>
 - 😄 Pronouns: him/he
