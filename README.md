@@ -11,7 +11,6 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ag23/">LinkedIn</a> or <a href="mailto:anuraggupta5086@gmail.com">Mail Me</a>
 - 😄 Pronouns: him/he
 - ⚡ Fun fact: I love playing video games, and developing as well. :p
-
 <br>
 
 **Languages and Tools:**  
