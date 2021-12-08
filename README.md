@@ -5,7 +5,9 @@
 <a href="https://twitter.com/intent/follow?screen_name=anurag_gupta23"><img src="https://img.shields.io/badge/anurag_gupta23-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ag23/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:anuraggupta5086@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-![Profile Views](https://komarev.com/ghpvc/?username=Anurag5086)
+<a href="https://anurag23.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://anuraggupta.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
+<a href="https://dev.to/anurag5086"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
 
 
 #### 🤔 Who Is Anurag Gupta ?
@@ -15,17 +17,6 @@
 - 🔭 He is/has worked/working with Multiple Organizations ( [Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/) )
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
-
-#### **My Portfolio**:
-
-<a href="https://anurag23.github.io/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
-
-#### _**My Blogs**_:
-
-<a href="https://anuraggupta.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
-<a href="https://dev.to/anurag5086"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"  /></a>
-
-<br>
 
 ### 🔭 **Technology Stack**
 
