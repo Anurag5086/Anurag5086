@@ -16,7 +16,7 @@
 
 - 🏫 He is a Junior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
 - ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS and a little bit about Rust & Blockchain development.
-- 🔭 He is/has worked/working with Multiple Organizations ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
+- 🔭 He is/has working/worked with Multiple Organizations ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
 - ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
 
 
