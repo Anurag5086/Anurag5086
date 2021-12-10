@@ -43,7 +43,7 @@
 <img height=25 src="https://img.shields.io/badge/tailwindcss-%23404d59.svg?style=for-the-badge&logo=tailwindcss&logoColor=%2361DAFB">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/sass-%23404d59.svg?style=for-the-badge&logo=sass&logoColor=%2361DAFB">&nbsp;&nbsp;
 
-##### **Databases**:
+#### **Databases**:
 
 <img height=25 src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">&nbsp;&nbsp;
 <img height=25 src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">&nbsp;&nbsp;
