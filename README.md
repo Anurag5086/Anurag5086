@@ -5,7 +5,7 @@
 <a href="https://twitter.com/intent/follow?screen_name=anurag_gupta23"><img src="https://img.shields.io/badge/anurag_gupta23-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/ag23/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:anuraggupta5086@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://drive.google.com/file/d/1JS5iy863e09Am1RPImboAzfEupkxweX-/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
+<a href="https://drive.google.com/file/d/1ktat06V9Njj7atofNAyRGxATkvYqmj9c/view"><img src="https://img.shields.io/badge/Resume-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/></a>
 <a href="https://anuraggupta.hashnode.dev/"><img src="https://img.shields.io/badge/Hashnode-12100E?style=for-the-badge&logo=hashnode&logoColor=white" /></a>
 <a href="https://dev.to/anurag5086"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" /></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=Anurag5086&style=flat-square)
