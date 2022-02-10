@@ -12,12 +12,13 @@
 
 
 
-#### 🤔 Who Is Anurag Gupta ?
+#### About Me ?
 
-- 🏫 He is a Junior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
-- ⚡️ His expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS and a little bit about Rust & Blockchain development.
-- 🔭 He is/has working/worked with Multiple Organizations ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
-- ♥️ He is an open-source lover and that's why he regularly contributes to open-source products.
+- 🏫 I'm a Junior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
+- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS and a little bit about Rust & Blockchain development.
+- ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow at [Solana](https://github.com/solana-labs)
+- 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
+- ♥️ I love to contribute to open-source products.
 
 
 ### 🔭 **Technology Stack**
