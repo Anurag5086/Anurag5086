@@ -15,8 +15,8 @@
 #### About Me ?
 
 - 🏫 I'm a Junior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
-- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS and a little bit about Rust & Blockchain development.
-- ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow(Software Engineering) at [Solana](https://github.com/solana-labs)
+- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS and a little bit about Rust & Blockchain(Solana) development.
+- ⚡️ Currently working as Software Engineering Intern at [Github](https://github.com/github) and MLH Fellow (Software Engineering Fellow) at [Solana](https://github.com/solana-labs)
 - 🔭 Worked with multiple organizations like ([Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
 - ♥️ I love to contribute to open-source products.
 
