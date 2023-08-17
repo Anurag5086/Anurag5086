@@ -13,7 +13,7 @@
 
 #### About Me ?
 
-- 🏫 I'm a Senior pursuing a Bachelor’s degree in Software Engineering from the Delhi Technological University, Delhi, India.
+- 🏫 I'm a Software Engineering Graduate from the Delhi Technological University, Delhi, India.
 - ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS, Rust & Blockchain(Solana) development.
 - 🔭 Worked with multiple organizations like ([Disney+Hotstar](https://www.hotstar.com/in), [Github](https://github.com/github), [Solana](https://github.com/solana-labs), [Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
 - ♥️ I love to contribute to open-source projects.
