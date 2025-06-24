@@ -13,8 +13,9 @@
 
 #### About Me ?
 
-- 🏫 I'm a Software Engineering Graduate from the Delhi Technological University, Delhi, India.
-- ⚡️ My expertise primarily revolves around JavaScript, React, MERN, Web Development, NextJS, Rust & Blockchain(Solana) development.
+- 🧑‍💻 I'm a Software Engineering graduate from Delhi Technological University, India, currently working as an SDE at Razorpay.
+- ⚡️ I specialize in Full-Stack Development (JavaScript, React, Node.js, Next.js, MERN), with hands-on experience in Golang, Rust, AI Tools and Blockchain (Solana).
+- ⚡️ Open to full-time, part-time, freelance, or contract-based opportunities in engineering, AI, web3, or product development.
 - 🔭 Worked with multiple organizations like ([Razorpay](https://razorpay.com), [Avataar](https://avataarskin.com), [Disney+Hotstar](https://www.hotstar.com/in), [Github](https://github.com/github), [Solana Labs](https://github.com/solana-labs), [Progarten](https://progarten.in/), [Codedigger](https://github.com/Code-dig-ger), [myPassID](https://github.com/mypass-id) , [CodeTrophs](https://github.com/CodeTrophs), [Uptone](https://www.linkedin.com/company/uptone/) & [Kootlabs](https://www.linkedin.com/company/kootlabs/))
 - ♥️ I love to contribute to open-source projects.
 
